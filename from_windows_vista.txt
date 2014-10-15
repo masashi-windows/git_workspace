@@ -2,3 +2,6 @@ windows_vistaから git shellで GitHubへ コミット してみた。
 2014/10/14
 
 文字コードを　Shift-JIS　から　UTF-8　に変更してみた。
+
+git diff →　git add →　git diff HEAD →　git commit →　git log →　git push
+上記の順番でコマンドを実行し、動作をテスト。
