@@ -5,3 +5,5 @@ windows_vistaから git shellで GitHubへ コミット してみた。
 
 git diff →　git add →　git diff HEAD →　git commit →　git log →　git push
 上記の順番でコマンドを実行し、動作をテスト。
+
+windows git demonstration
