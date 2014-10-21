@@ -7,3 +7,5 @@ git diff →　git add →　git diff HEAD →　git commit →　git log →　
 上記の順番でコマンドを実行し、動作をテスト。
 
 windows git demonstration
+
+masashi-windows test commit
